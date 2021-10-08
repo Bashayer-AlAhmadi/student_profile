@@ -1,15 +1,10 @@
-__Student_TODO:__  
 
-< 8 Oct 2021 >
-
-< Bashayer AlAhmadi >  
-Cohort < 2 >
+8 Oct 2021 
+Bashayer AlAhmadi
+Cohort 2
 
 
-## Student Career Goal Statement 
-
-   __Student_TODO:__ 
- 
+## Student Career Goal Statement  
   #### What is your career goal? (Think 5 year's from now) 
        Become a leading influence on the Saudi FineTech community
   #### Which financial services or products would you like to work with? 
@@ -20,8 +15,6 @@ Cohort < 2 >
        I think there are many ideas that interest me such as :budgeting programs on local banks or building and deploying blockchain networks within financial companies 
 
 ### Student mini-CV:
-
-  __Student_TODO:__
 
   - Degrees Completed:    
         < BSc Computer Science '13, MSc Computer Science '20 >
